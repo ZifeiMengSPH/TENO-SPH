@@ -87,7 +87,7 @@
       geshu_y=nint(length_y/detd)
 
       !The size of time step
-      dt= detd/cs0/10.
+      dt= detd/cs0/4.
       !Dimension
       dim=2 
       !Background pressure
@@ -119,7 +119,7 @@
       nair=i 
 
       !!!!create model and set initial conditions, refer to the reference below
-      !Taylor, G.I., Green, A.E., 1937. Mechanism of the production of small eddies from large ones. Proc. R. Soc. A 158 (895), 499¨C521
+      !Taylor, G.I., Green, A.E., 1937. Mechanism of the production of small eddies from large ones. Proc. R. Soc. A 158 (895), 499Â¨C521
       do j=1,geshu_y  
           do k=1,geshu_x  
 
@@ -187,7 +187,7 @@
       write(623,*)et0
       close(623)
 
-      !!!******************************calculate w(¦¤x) for particle shifting technique  
+      !!!******************************calculate w(Â¦Â¤x) for particle shifting technique  
 
       r=detd
       dx=detd/sqrt(2.0)
