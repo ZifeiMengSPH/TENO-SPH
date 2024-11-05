@@ -33,4 +33,4 @@ Hydrostatic test at t=30s:
 ![2](https://user-images.githubusercontent.com/103821275/163676397-0084479f-3436-46df-90f8-9844f8204c83.png)
 
 Dam-breaking flow:
-![28](https://user-images.githubusercontent.com/103821275/163676419-233847bd-ba9e-4488-a8ae-3cd19da71ddd.png)
+![28](https://github.com/ZifeiMengSPH/TENO-SPH/blob/main/dambreak.png)
