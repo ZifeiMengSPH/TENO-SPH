@@ -35,4 +35,4 @@ Dam-breaking flow:
 ![28](https://github.com/ZifeiMengSPH/TENO-SPH/blob/main/image/dambreak.png)
 
 Underwater explosion:
-![29](https://github.com/ZifeiMengSPH/TENO-SPH/blob/main/image/underwater explosion.png)
+![29](https://github.com/ZifeiMengSPH/TENO-SPH/blob/main/image/underwater%20explosion.png)
