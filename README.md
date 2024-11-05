@@ -1,6 +1,6 @@
 # TENO-SPH Code
 The TENO-SPH code, developed by Zifei Meng and Pingping Wang, is specifically programmed for simulating Taylor-Green vortex flows.
-You can find me at Researchgate https://www.researchgate.net/profile/Zifei-Meng-2 and Google scholar https://scholar.google.com/citations?user=Abi6bBUAAAAJ&hl=zh-CN.
+You can find me at Researchgate https://www.researchgate.net/profile/Zifei-Meng-2 and Google Scholar https://scholar.google.com/citations?user=Abi6bBUAAAAJ&hl=zh-CN.
 An introduction to TENO-SPH is available in the following references:
 
 [1] Meng, Z. F., Sun, P. N., Xu, Y., Wang, P. P., & Zhang, A. M. (2024). 
@@ -32,7 +32,7 @@ Hydrostatic test at t=30s:
 ![2](https://user-images.githubusercontent.com/103821275/163676397-0084479f-3436-46df-90f8-9844f8204c83.png)
 
 Dam-breaking flow:
-![28](https://github.com/ZifeiMengSPH/TENO-SPH/blob/main/image/dambreak.png)
+![28](https://github.com/ZifeiMengSPH/TENO-SPH/blob/137a5d9ceb0bcb7d56e6ba6338f4031cd3ab3511/image/dambreak.png)
 
 Underwater explosion:
 ![29](https://github.com/ZifeiMengSPH/TENO-SPH/blob/main/image/underwater%20explosion.png)
