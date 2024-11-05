@@ -1,14 +1,17 @@
 # TENO-SPH Code
 A TENO-SPH code to simulate Taylor-Green vortex flows.
 You can find me at Researchgate https://www.researchgate.net/profile/Zifei-Meng-2.
-More details please see the Reference:
+An introduction to TENO-SPH is available in the following references:
+[1] Meng, Z. F., Sun, P. N., Xu, Y., Wang, P. P., & Zhang, A. M. (2024). 
+High-order Eulerian SPH scheme through W/TENO reconstruction based on 
+primitive variables for simulating incompressible flows. CMAME, 427, 117065.
+[2] Meng, Z. F., Zhang, A. M., Wang, P. P., Ming, F. R., & Khoo, B. C. (2022). 
+A targeted essentially non-oscillatory (TENO) SPH method and its applications 
+in hydrodynamics. Ocean Engineering, 243, 110100.
 
-[1] Meng, Z. F., Zhang, A. M., Wang, P. P., Ming, F. R., & Khoo, B. C. (2022). 
-A targeted essentially non-oscillatory (TENO) SPH method and its applications in hydrodynamics. Ocean Engineering, 243, 110100.
+Please cite these references if you use this code in a paper.
 
 You can use this code to simulate other flows, such as inviscid shear flow, hydrostatic test, and dam-breaking flow.
-
-If you use this code to write a paper, please cite the above Reference.
 
 Some results obtained by this code are shown here.
 
