@@ -17,9 +17,8 @@ CMAME, 381, 113770.
 
 Please cite these references if you use this code in a paper.
 
-You can use this code to simulate many flows, such as inviscid shear flow, hydrostatic test, underwater explosion, and dam-breaking flow.
-
-Some results obtained by this code are shown here.
+You can use this code to simulate incompressible and compressible flows, and 
+some results are shown including inviscid shear flow, hydrostatic test, dam-breaking flow, and underwater explosion.
 
 Taylor-Green vortex flow:
 ![16](https://user-images.githubusercontent.com/103821275/163676296-fe8e19a9-305b-4c60-8cb5-9f1620fc6eda.png)
