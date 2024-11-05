@@ -32,7 +32,7 @@ Hydrostatic test at t=30s:
 ![2](https://user-images.githubusercontent.com/103821275/163676397-0084479f-3436-46df-90f8-9844f8204c83.png)
 
 Dam-breaking flow:
-![28](https://github.com/ZifeiMengSPH/TENO-SPH/blob/main/image/dambreak.png)
+![28](https://github.com/ZifeiMengSPH/TENO-SPH/blob/0fecbb043b3d5e1e29e095af5d2a02a0365333f8/dambreak.png)
 
 Underwater explosion:
 ![29](https://github.com/ZifeiMengSPH/TENO-SPH/blob/main/image/underwater%20explosion.png)
