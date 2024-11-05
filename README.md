@@ -1,6 +1,6 @@
 # TENO-SPH Code
 The TENO-SPH code, developed by Zifei Meng and Pingping Wang, is specifically programmed for simulating Taylor-Green vortex flows.
-You can find me at Researchgate https://www.researchgate.net/profile/Zifei-Meng-2.
+You can find me at Researchgate https://www.researchgate.net/profile/Zifei-Meng-2 and Google scholar https://scholar.google.com/citations?user=Abi6bBUAAAAJ&hl=zh-CN.
 An introduction to TENO-SPH is available in the following references:
 
 [1] Meng, Z. F., Sun, P. N., Xu, Y., Wang, P. P., & Zhang, A. M. (2024). 
